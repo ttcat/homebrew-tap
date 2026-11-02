@@ -1,6 +1,6 @@
 cask "ccstay" do
-  version "0.2.0"
-  sha256 "df2fb59ef56ff1b8a23a06126041afbcdec9dd53d899ac0dfe37fcec3767bfbe"
+  version "0.2.1"
+  sha256 "96a477272a91e288109ca8736ea5e59bc36ed9f58bf238a27027e85380ba3ce0"
 
   url "https://github.com/ttcat/ccstay/archive/refs/tags/v#{version}.tar.gz"
   name "ccstay"
